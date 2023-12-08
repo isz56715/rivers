@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082986286054",
+    "firebase_url": "https://logtest-c902b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "logtest-c902b",
+    "storage_bucket": "logtest-c902b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082986286054:android:15aaf82a4e769fee276427",
+        "android_client_info": {
+          "package_name": "com.example.bigdata_frontend_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChAz-uPctgz4lswrdjnRpNKlkbhLTP2Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
